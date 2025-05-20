@@ -3,7 +3,7 @@
 - Number of dialogues: 4
 - Number of Total Sentences: 5
 - Number of TotalTokens: 19
-- Conversation Topic: The conversation is about getting an introduction to Python and its potential applications.
+- Conversation Topic: The conversation is about a user asking for an overview of the Python programming language and its potential applications.
 
 - Top 5 words: ['Python', 'use', 'Hi', 'tell', 'Sure']
 ---------------------------------------------------------------------------------

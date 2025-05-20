@@ -8,3 +8,13 @@ In this excercise I have showed how to take dialogues from the text files kept i
 - I have kept all nlp related task inside `language_processing` module
 - I have used gemini to summarize the topic in one sentence, I have tried gensim and sumy, and found both of them to be not up to the mark
 
+#### Running the project
+> You must have `uv` installed [uv](https://docs.astral.sh/uv/getting-started/installation/)
+- Just do `uv sync`
+- Make sure you have placed your gemini api from `aistudio.google.com` (It's Free*!)
+- Then do `uv run main.py`
+
+#### Important!
+- Make sure you have seen the demo inside summaries
+- Clean up them after you have checked them
+- Newly created summaries will be created there
