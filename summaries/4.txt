@@ -1,0 +1,9 @@
+--------------------------------------Corpus: 4-------------------------------------------
+- Summary:
+- Number of dialogues: 15
+- Number of Total Sentences: 22
+- Number of TotalTokens: 80
+- Conversation Topic: This conversation is about someone seeking advice and expressing willingness to try strategies like incorporating healthy snacks and meal prepping to overcome their struggles with maintaining a healthy diet.
+
+- Top 5 words: ['I', 'really', 'healthy', 'give', 'snacks']
+---------------------------------------------------------------------------------

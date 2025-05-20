@@ -1,0 +1,9 @@
+--------------------------------------Corpus: 2-------------------------------------------
+- Summary:
+- Number of dialogues: 15
+- Number of Total Sentences: 28
+- Number of TotalTokens: 87
+- Conversation Topic: The person is seeking and receiving advice or encouragement about their nervousness regarding an upcoming frontend developer job interview, specifically focusing on React and TypeScript.
+
+- Top 5 words: ['I', 'React', 'job', 'frontend', 'know']
+---------------------------------------------------------------------------------
