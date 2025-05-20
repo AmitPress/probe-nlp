@@ -18,3 +18,6 @@ In this excercise I have showed how to take dialogues from the text files kept i
 - Make sure you have seen the demo inside summaries
 - Clean up them after you have checked them
 - Newly created summaries will be created there
+
+#### Please have a look
+I didnt include the `User` and `AI` in the corpus that is why they will not be showed as a frequent word in the top-5 words list.
