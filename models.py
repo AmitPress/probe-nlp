@@ -6,7 +6,7 @@ class Message:
     role: Literal["User:", "AI:"] = None
     content: str = None
     total_sentences: int = None
-    vectorized_content: List[float] = None
+    vectorized_content: List[float] = None # we can use this in future for having vector embeddings for each message
 
 @dataclass
 class Corpus:

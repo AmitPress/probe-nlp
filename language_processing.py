@@ -3,11 +3,11 @@ from models import Corpus, Message
 from utils import find_topk
 
 import nltk
-
+# download necessary packages
 nltk.download('punkt')
 nltk.download('stopwords')
 nltk.download('punkt_tab')
-from llm_helper import find_topic
+from llm_helper import find_topic # this will make internet call, so make sure you are connected
 
 
 def tokenize_message(message: Message):

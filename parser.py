@@ -16,4 +16,4 @@ def parse_corpora(dir: str = "corpora") -> List[Corpus]:
                 case [user, content] if user == "AI":
                     corpus.conversation.append(Message(role=user, content=content))
         corpora.append(corpus)
-    return corpora
+    return corpora # return the list of paths to the corpuses
