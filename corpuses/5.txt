@@ -1,0 +1,14 @@
+User: I want to learn how to code but don’t know where to start.
+AI: Totally understandable. Do you know what you want to build?
+User: Maybe websites? I like the idea of web development.
+AI: Perfect! Start with HTML, CSS, and JavaScript.
+User: JavaScript sounds scary.
+AI: It sounds scary, but it’s actually fun once you get the hang of it.
+User: Okay, okay. Any course you recommend?
+AI: FreeCodeCamp is amazing and totally beginner-friendly.
+User: I’ve heard of that one!
+AI: Great! Start with their "Responsive Web Design" module.
+User: Got it. Should I code daily?
+AI: Yes, even 30 minutes daily helps build the habit.
+User: Thanks, I’ll start today.
+AI: That’s the first step. Keep going—you’ll get better fast.

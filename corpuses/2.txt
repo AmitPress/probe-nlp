@@ -1,0 +1,15 @@
+User: I have a job interview tomorrow and I'm super nervous.
+AI: I totally get that. Nervous is normal. What’s the job role?
+User: It's for a frontend developer position at a startup.
+AI: Okay, frontend. Do you know what tech stack they use?
+User: Mostly React and TypeScript, I think.
+AI: Great! React and TypeScript—very in-demand. Have you worked with both?
+User: Yes, React a lot. TypeScript a little less, but yes.
+AI: That’s good enough. Want to do a quick mock question?
+User: Yes, please. That would help.
+AI: Alright. How would you manage global state in a large React app?
+User: Probably with Context API or Redux.
+AI: Nice, nice. Mention why and maybe compare both briefly.
+User: Got it. This helps a lot, really.
+AI: You’ve got this! Deep breath, be confident, and show what you know.
+User: Thanks again. Feeling better already.

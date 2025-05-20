@@ -1,0 +1,16 @@
+User: I’m planning a Europe trip, but I’m overwhelmed.
+AI: Europe planning can be overwhelming, but exciting too! Where do you want to go?
+User: Definitely France, maybe Italy, maybe Spain.
+AI: Classic choices. France, Italy, and Spain make a great route.
+User: Yeah, but how many days should I spend in each?
+AI: About 4–5 days per country is a good balance.
+User: Okay, so around 15 days total?
+AI: Yes, that gives you enough time to explore without rushing.
+User: Should I book everything in advance?
+AI: Yes, especially trains and stays. Summer gets busy.
+User: That’s true. I’ll need help with booking links.
+AI: I can provide those. Want budget or mid-range?
+User: Budget would be great. I want to save but still be comfy.
+AI: Got it! I’ll find some hostels and budget hotels with good reviews.
+User: Thanks! You’re making this feel doable now.
+AI: That’s the goal—fun planning, not stressful planning!
