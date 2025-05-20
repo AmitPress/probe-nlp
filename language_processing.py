@@ -38,6 +38,8 @@ def summarize_corpus(corpus: Corpus):
     summary = f"--------------------------------------Corpus: {corpus.name}-------------------------------------------\n"
     summary += "- Summary:\n"
     summary += f"- Number of dialogues: {len(corpus.conversation)}\n"
+    summary += f"- Total messages by User: {len([message for message in corpus.conversation if message.role == 'User'])}\n"
+    summary += f"- Total messages by AI: {len([message for message in corpus.conversation if message.role == 'AI'])}\n"
     summary += f"- Number of Total Sentences: {corpus.total_sentences}\n"
     summary += f"- Number of TotalTokens: {corpus.total_tokens}\n"
     summary += f"- Conversation Topic: {corpus.topic}\n"

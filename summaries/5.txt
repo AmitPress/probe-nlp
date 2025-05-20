@@ -1,9 +1,11 @@
 --------------------------------------Corpus: 5-------------------------------------------
 - Summary:
 - Number of dialogues: 14
+- Total messages by User: 7
+- Total messages by AI: 7
 - Number of Total Sentences: 21
 - Number of TotalTokens: 71
-- Conversation Topic: The conversation is about someone seeking advice on how to begin learning to code, specifically in web development, and receiving recommendations on a starting point and learning habits.
+- Conversation Topic: The conversation is about someone seeking guidance on where to begin learning to code, specifically for web development, and receiving recommendations and encouragement to start with a particular course and to practice daily.
 
 - Top 5 words: ['I', 'want', 'code', 'know', 'start']
 ---------------------------------------------------------------------------------

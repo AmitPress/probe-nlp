@@ -1,9 +1,11 @@
 --------------------------------------Corpus: 2-------------------------------------------
 - Summary:
 - Number of dialogues: 15
+- Total messages by User: 8
+- Total messages by AI: 7
 - Number of Total Sentences: 28
 - Number of TotalTokens: 87
-- Conversation Topic: The person is seeking and receiving advice about a job interview for a frontend developer position at a startup focusing on React and TypeScript, and specifically wants help understanding how to discuss Context API or Redux.
+- Conversation Topic: The speaker is seeking and receiving advice on how to prepare for a frontend developer job interview focusing on React and TypeScript, likely using Context API or Redux.
 
 - Top 5 words: ['I', 'React', 'job', 'frontend', 'know']
 ---------------------------------------------------------------------------------

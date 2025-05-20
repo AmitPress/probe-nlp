@@ -1,9 +1,11 @@
 --------------------------------------Corpus: 3-------------------------------------------
 - Summary:
 - Number of dialogues: 16
+- Total messages by User: 8
+- Total messages by AI: 8
 - Number of Total Sentences: 24
 - Number of TotalTokens: 91
-- Conversation Topic: This conversation is about someone planning a trip to Europe (specifically France, Italy, and/or Spain) who is seeking advice on itinerary length, booking strategies, and budget-friendly options.
+- Conversation Topic: The conversation is about planning a 15-day European trip to France, potentially Italy and Spain, with the speaker seeking advice on itinerary length, booking strategies, budgeting, and resources to make the planning process less overwhelming.
 
 - Top 5 words: ['planning', 'I', 'days', 'Europe', 'want']
 ---------------------------------------------------------------------------------
